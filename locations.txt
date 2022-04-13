@@ -1,0 +1,5 @@
+32.341906,-106.758862,Las Cruces New Mexico USA
+36.884615,-104.439862,Raton New Mexico USA
+35.171950,-103.724588,Tucumcari New Mexico USA
+35.528541,-108.758155,Gallup New Mexico USA
+35.105925,-106.628423,Albuquerque New Mexico USA
